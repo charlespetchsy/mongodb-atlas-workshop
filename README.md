@@ -7,7 +7,7 @@
 Similarly to **MongoDB Operations Manager**, clusters can be detected in an existing environment for continuous integration.
 ___
 [Workshop Slides](https://github.com/charlespetchsy/mongodb-atlas-workshop/blob/master/slides/MongoDB-Workshop-Toronto%201_2019.pdf) <br>
-You can deploy a sharded cluster with **MongoDB Atlas** without the technical hassle of manually configuring it. An additional tool called **MongoDB Compass** is a schema visualizer that helps you execute queries without accessing the command-line prompt.
+You can deploy a sharded cluster with **MongoDB Atlas** without the technical hassle of manually configuring it. An additional tool called **MongoDB Compass** is a schema visualizer that helps you execute queries without accessing the command-line interface.
 
 **MongoDB Stitch** is a framework that deploys web applications with the control of Atlas and Compass for the back-end.
 
